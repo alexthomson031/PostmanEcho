@@ -1,5 +1,2 @@
-
-[![Build status](https://ci.appveyor.com/api/projects/status/wk4dhgdq8vw7vv4x?svg=true)](https://ci.appveyor.com/project/DmitriiLife/postmanecho)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/wk4dhgdq8vw7vv4x?svg=true)](https://ci.appveyor.com/project/DmitriiLife/postmanecho)
+[![Java CI with Gradle](https://github.com/alexthomson031/PostmanEcho/actions/workflows/main.yml/badge.svg)](https://github.com/alexthomson031/PostmanEcho/actions/workflows/main.yml)
 
